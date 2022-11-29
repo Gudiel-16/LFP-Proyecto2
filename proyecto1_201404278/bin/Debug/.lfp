@@ -1,0 +1,98 @@
+[Clase]
+
+{
+
+	[Nombre]=miclase;
+
+	[Atributos]{
+
+		(+) carro;
+		(-) modelo:sds;
+		(#) precio;
+
+	}
+
+	[Metodos]{
+
+		(#) carrito:string;
+		(+) modelito:ajajaj;
+		(-) precito;
+
+	}
+
+	
+}
+
+[Clase]
+
+{
+
+	[Nombre]=Evangelyne;
+
+	[Atributos]{
+
+		(+) casa:string;
+		(-) peru:sjs;
+		(#) brasil;
+
+	}
+
+	[Metodos]{
+
+		(#) argentina:string;
+		(+) Edna:integer;
+		(-) silla:s;
+
+	}
+
+	
+}
+[Clase]
+
+{
+
+	[Nombre]=miclase;
+
+	[Atributos]{
+
+		(+) carro;
+		(-) modelo:sds;
+		(#) precio;
+
+	}
+
+	[Metodos]{
+
+		(#) carrito:string;
+		(+) modelito:ajajaj;
+		(-) precito;
+
+	}
+
+	
+}
+
+[Clase]
+
+{
+
+	[Nombre]=Evangelyne;
+
+	[Atributos]{
+
+		(+) casa:string;
+		(-) peru:sjs;
+		(#) brasil;
+
+	}
+
+	[Metodos]{
+
+		(#) argentina:string;
+		(+) Edna:integer;
+		(-) silla:s;
+
+	}
+
+	
+}

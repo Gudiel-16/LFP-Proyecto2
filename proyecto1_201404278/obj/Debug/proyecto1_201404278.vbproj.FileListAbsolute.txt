@@ -1,0 +1,19 @@
+c:\users\gudiel\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\bin\Debug\proyecto1_201404278.exe.config
+c:\users\gudiel\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.Form1.resources
+c:\users\gudiel\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.Resources.resources
+c:\users\gudiel\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.vbproj.GenerateResource.Cache
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\bin\Debug\proyecto1_201404278.exe
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\bin\Debug\proyecto1_201404278.pdb
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\bin\Debug\proyecto1_201404278.xml
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.exe
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.xml
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.pdb
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\bin\Debug\proyecto1_201404278.exe.manifest
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\bin\Debug\proyecto1_201404278.application
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.exe.manifest
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.application
+C:\Users\GUDIEL\Documents\Visual Studio 2013\Projects\proyecto1_201404278\proyecto1_201404278\obj\Debug\proyecto1_201404278.vbprojResolveAssemblyReference.cache
+E:\CHIPECH\LENGUAJES\PROYECTO2\proyecto1_201404278_2.6_ENVIADO\proyecto1_201404278\bin\Debug\proyecto1_201404278.exe.config
+E:\CHIPECH\LENGUAJES\PROYECTO2\proyecto1_201404278_2.6_ENVIADO\proyecto1_201404278\obj\Debug\proyecto1_201404278.exe
+E:\CHIPECH\LENGUAJES\PROYECTO2\proyecto1_201404278_2.6_ENVIADO\proyecto1_201404278\obj\Debug\proyecto1_201404278.xml
+E:\CHIPECH\LENGUAJES\PROYECTO2\proyecto1_201404278_2.6_ENVIADO\proyecto1_201404278\obj\Debug\proyecto1_201404278.pdb
